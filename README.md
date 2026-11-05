@@ -15,6 +15,14 @@ The project shows a structured authoring workflow: separating content by informa
 - **Validated content.** All topics are validated against the DITA 1.3 XML Schemas.
 - **Docs-as-code.** Plain-text sources in Git and command-line builds, with no proprietary tools required.
 ---
+## Development environment
+- **[Visual Studio Code](https://code.visualstudio.com/)**: editor
+- **[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) (Red Hat)**: schema validation and content completion
+- **[DitaCraft](https://github.com/jyjeanne/ditacraft)**: DITA-aware navigation, link checking, live preview and publishing
+- **[DITA Open Toolkit](https://www.dita-ot.org/) 4.4.1**: publishing engine (PDF, HTML5)
+- **Java 17 or later**: runtime required by DITA-OT
+- **Git and [GitHub](https://github.com/)**: version control and hosting
+
 ## Building the manual
  
 **Requirements:** Java 17 or later and [DITA-OT](https://www.dita-ot.org/download) 4.x, with its `bin` folder on the `PATH`.
