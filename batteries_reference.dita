@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference id="batteries_reference" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd">
+  <title>Battery specifications</title>
+  <refbody>
+    <simpletable>
+        <sthead>
+            <stentry>Type</stentry>
+            <stentry>Voltage</stentry>
+            <stentry>Quantity</stentry>
+        </sthead>
+        <strow>
+            <stentry>AA</stentry>
+            <stentry>1.5 V</stentry>
+            <stentry>4</stentry>
+        </strow>
+    </simpletable>
+    
+  </refbody>
+</reference>

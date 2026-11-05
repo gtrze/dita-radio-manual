@@ -3,7 +3,7 @@
   <title>Replacing batteries</title>
   <taskbody>
     <prereq>
-        <p>Put the power switch to the off position.</p>
+        <p>Set the power switch to OFF.</p>
     </prereq>
     <steps>
         <step>
@@ -15,7 +15,7 @@
         </step>
         <step>
             <cmd>Insert new batteries.</cmd>
-            <info>Match the + and – marks on the batteries with the marks in the compartment.</info>
+            <info>For the battery type, see <xref href="batteries_reference.dita"/>. Match the + and – marks on the batteries with the marks in the compartment.</info>
         </step>
         <step>
             <cmd>Close the battery compartment.</cmd>

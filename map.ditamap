@@ -10,7 +10,9 @@
     <topicref href="bands_reference.dita"/>
   </topicref>  
 
-  <topicref href="battery_replacement.dita"/>  
+  <topicref href="battery_replacement.dita">
+    <topicref href="batteries_reference.dita"/>
+  </topicref>
 
   
 </map>
