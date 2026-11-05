@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="what_are_the_antennas" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+  <title>Antennas</title>
+  <conbody>
+    <p>The radio has two antennas. Each antenna receives a different frequency band.</p>
+    <p>The telescopic antenna receives FM signals. It is mounted on the outside of the radio
+    and can be extended. A fully extended antenna receives FM signals best.</p>
+    <p>The internal antenna receives AM signals. It is a ferrite antenna built into the radio
+    housing. A ferrite antenna is directional, so AM reception depends on how the radio is
+    positioned in relation to the transmitter.</p>
+  </conbody>
+</concept>

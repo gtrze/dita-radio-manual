@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="what_is_a_radio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+  <title>Radio</title>
+  <conbody>
+    <image href="pictures/radio.svg" placement="break" align="center" width="8cm">
+      <alt>Portable radio with a telescopic antenna, tuning dial and two knobs</alt>
+
+    </image>
+    <p>Radio, is an electronic device that receives radio waves 
+      and converts the information carried by them into a usable form.</p>
+    <p>It is used with an antenna. The antenna responds to radio waves</p>
+    <p>The radio is battery-powered, so you can use it without a mains connection.</p>
+  </conbody>
+</concept>

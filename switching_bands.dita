@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="switching_bands" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+  <title>Switching bands</title>
+  <taskbody>
+    <prereq><p>Switch on the radio.</p></prereq>
+    <steps>
+        <step>
+            <cmd>Set the band switch on the front of the radio to AM or FM.</cmd>
+            <choices>
+                <choice>AM: For better reception, rotate the radio. The AM antenna is inside the radio.</choice>
+                <choice>FM: For better reception, fully extend the telescopic antenna.</choice>
+            </choices>
+            <info>For more information about the antennas, see <xref href="what_are_the_antennas.dita"/>.
+            For the frequency ranges, see <xref href="bands_reference.dita"/>.</info>
+        </step>
+        <step>
+            <cmd>Turn the tuning knob to find a station.</cmd>
+        </step>
+                
+    </steps>
+    <result>
+            <p>The radio plays the selected station.</p>
+    </result>
+    
+  </taskbody>
+</task>

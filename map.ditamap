@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+  <title>Radio user manual</title>
+  <topicref href="what_is_a_radio.dita"/>
+  <topicref href="preparing_radio_for_first_use.dita"/>
+
+  <topicref href="what_are_the_bands.dita">
+    <topicref href="what_are_the_antennas.dita"/>
+    <topicref href="switching_bands.dita"/>
+    <topicref href="bands_reference.dita"/>
+  </topicref>  
+
+  <topicref href="battery_replacement.dita"/>  
+
+  
+</map>

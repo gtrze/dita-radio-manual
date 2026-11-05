@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="what_are_the_bands" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+  <title>What are the bands</title>
+  <conbody>
+    <p>Your radio receives two frequency bands: AM and FM.
+        The bands differ in how the radio signal carries sound.</p>
+    <p>AM (amplitude modulation) changes the strength of the radio wave to carry sound. AM signals travel long distances, especially at night, but they are more sensitive to interference from electrical devices and storms. Sound quality on AM is lower, so the band is mainly used for news and talk stations.</p>
+    <p>FM (frequency modulation) changes the frequency of the radio wave to carry sound. FM signals have a shorter range and work best when there are no obstacles between the transmitter and the radio. FM offers clearer sound with less noise, so most music stations broadcast on FM.</p>
+  </conbody>
+</concept>

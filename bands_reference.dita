@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference id="bands_reference" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd">
+  <title>Bands</title>
+  <refbody>
+    <simpletable>
+        <sthead>
+            <stentry>Band</stentry>
+            <stentry>Frequency</stentry>
+        </sthead>
+        <strow>
+            <stentry>AM</stentry>
+            <stentry>531-1602 kHz</stentry>
+        </strow>
+        <strow>
+            <stentry>FM</stentry>
+            <stentry>87.5-108 MHz</stentry>
+        </strow>
+    </simpletable>
+    
+  </refbody>
+</reference>

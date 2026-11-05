@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="battery_replacement" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+  <title>Replacing batteries</title>
+  <taskbody>
+    <prereq>
+        <p>Put the power switch to the off position.</p>
+    </prereq>
+    <steps>
+        <step>
+            <cmd>Open the battery compartment on the back of the radio.</cmd>
+        </step>
+        <step>
+            <cmd>Remove all old batteries.</cmd>
+            <info>The radio uses four batteries.</info>
+        </step>
+        <step>
+            <cmd>Insert new batteries.</cmd>
+            <info>Match the + and – marks on the batteries with the marks in the compartment.</info>
+        </step>
+        <step>
+            <cmd>Close the battery compartment.</cmd>
+        </step>
+        
+    </steps>
+    <result>
+            <p>The radio is ready to use.</p>
+    </result>
+    <postreq>
+        <p>Dispose of the old batteries according to local regulations.</p>
+    </postreq>
+    
+  </taskbody>
+  <related-links>
+    <link href="preparing_radio_for_first_use.dita"/>
+    <link href="what_is_a_radio.dita"/>
+  </related-links>
+</task>

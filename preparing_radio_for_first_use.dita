@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="preparing_radio_for_first_use" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+  <title>Preparing the radio for first use</title>
+  <taskbody>
+    <prereq><p>Unpack the radio from the protecion film.</p></prereq>
+    <steps>
+        <step>
+            <cmd>Insert new batteries.</cmd>
+            <info>For details refer to <xref href="battery_replacement.dita"></xref>.</info>
+        </step>
+        <step>
+            <cmd>Extend the telescopic antenna.</cmd>
+        </step>
+        <step>
+            <cmd>Switch on the radio with switch located in the top left corner of the radio.</cmd>
+        </step>
+        <step>
+            <cmd>Switch to the required band.</cmd>
+            <info>For details refer to <xref href="switching_bands.dita"/>.</info>
+        </step>
+        <step>
+            <cmd>Increase the volume to the required level.</cmd>
+            <info>Knob is located in front of the radio.</info>
+        </step>
+    </steps>
+    <result><p>The radio is ready to use.</p></result>
+    
+  </taskbody>
+</task>
