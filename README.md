@@ -32,6 +32,17 @@ The output is written to the `out/` folder, which Git ignores because generated 
 ---
 ## About the author
  
-Electronics engineer (B.Eng. in marine radio electronics) developing skills in **structured technical writing** and **docs-as-code** workflows. This project is part of a hands-on study of the DITA standard, from the first topic to a complete, linked and version-controlled manual.
+Electrical engineer with **15+ years in marine and offshore power systems**: 15 years at sea
+with Maersk, Rigel and Royal Caribbean, followed by design work onshore.
+Today I am a **Senior Design Engineer** on offshore wind substation projects, where I verify
+wiring diagrams against FAT, HIT and SAT/HAT procedures and **develop O&M manuals** for complex systems.
+
+As 1st Electrical Engineer at Royal Caribbean I led a team of seven and was responsible for
+the 6.6 kV power plant, propulsion, navigation and communication systems, including upgrade
+projects such as a full radio-navigation replacement.
+
+I bring two perspectives to documentation: the **operator** who has to live with a system,
+and the **designer** who has to document it right. This project is part of my move into
+**structured technical writing** with DITA and docs-as-code workflows.
  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/grzegorz-trzeciak/)
