@@ -14,5 +14,9 @@
     <topicref href="batteries_reference.dita"/>
   </topicref>
 
+  <topichead navtitle="Troubleshooting">
+    <topicref href="trouble_no_sound.dita"/>
+  </topichead>
+
   
 </map>

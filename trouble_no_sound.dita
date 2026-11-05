@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<troubleshooting id="trouble_no_sound" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:troubleshooting.xsd">
+  <title>The radio has no sound</title>
+  <troublebody>
+    <condition>
+      <p>The radio is switched on, but there is no sound.</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <p><b>The volume knob is on minimum.</b></p>
+      </cause>
+      <remedy>
+        <steps>
+          <step><cmd>Turn the volume knob to increase the volume.</cmd></step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause>
+        <p><b>The radio is not tuned to a station.</b></p>
+      </cause>
+      <remedy>
+        <steps>
+          <step><cmd>Turn the tuning knob to find a station.</cmd>
+          <info>For details, see <xref href="switching_bands.dita"/>.</info></step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>
