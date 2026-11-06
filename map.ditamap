@@ -14,6 +14,10 @@
     <topicref href="batteries_reference.dita"/>
   </topicref>
 
+  <topicref href="what_is_the_fuse.dita">
+    <topicref href="fuse_replacement.dita"/>
+  </topicref>
+
   <topichead navtitle="Troubleshooting">
     <topicref href="trouble_no_sound.dita"/>
   </topichead>

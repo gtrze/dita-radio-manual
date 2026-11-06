@@ -29,10 +29,10 @@ The project shows a structured authoring workflow: separating content by informa
  
 ```bash
 # PDF
-dita --input=radio.ditamap --format=pdf
+dita --input=map.ditamap --format=pdf
  
 # HTML5
-dita --input=radio.ditamap --format=html5
+dita --input=map.ditamap --format=html5
 ```
  
 The output is written to the `out/` folder, which Git ignores because generated files are not stored in the repository.

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="fuse_replacement" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+  <title>Replacing the fuse</title>
+  <taskbody>
+    <prereq>
+      <hazardstatement type="warning">
+        <messagepanel>
+          <typeofhazard>Hazardous Voltage</typeofhazard>
+          <consequence>Contact with live parts can cause electric shock.</consequence>
+          <howtoavoid>Disconnect the power cable from the wall outlet before you open the fuse holder.</howtoavoid>
+        </messagepanel>
+      </hazardstatement>
+      <p>Set the power switch to OFF.</p>
+      <p>Disconnect the power cable from the wall outlet.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Unscrew the fuse holder cap with a flat-blade screwdriver.</cmd>
+      </step>
+      <step>
+        <cmd>Remove the blown fuse from the cap.</cmd>
+      </step>
+      <step>
+        <hazardstatement>
+          <messagepanel>
+            <typeofhazard>Risk of fire</typeofhazard>
+            <consequence>A fuse with a higher rating does not protect the radio and can cause overheating.</consequence>
+            <howtoavoid>Replace the fuse only with a fuse of the same type and rating.</howtoavoid>
+          </messagepanel>
+        </hazardstatement>
+        <cmd>Put new fuse (500 mA) in the place of old one.</cmd>
+        <info>Use the proper fuse.</info>
+      </step>
+      <step>
+        
+        <cmd>Screw the fuse holder cap back in.</cmd>
+      </step>
+
+    </steps>
+    <result>
+      Radio is ready to use.
+    </result>
+    
+  </taskbody>
+</task>

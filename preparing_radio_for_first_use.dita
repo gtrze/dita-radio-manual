@@ -5,8 +5,12 @@
     <prereq><p>Unpack the radio from the protective film.</p></prereq>
     <steps>
         <step>
-            <cmd>Insert new batteries.</cmd>
-            <info>For details refer to <xref href="battery_replacement.dita"></xref>.</info>
+            <cmd>Connect the power source</cmd>
+            <choices>
+                <choice>Batteries: insert four AA batteries. For details, see <xref href="battery_replacement.dita"/>.</choice>
+                <choice>Mains: connect the power cable to the socket on the back of the radio, then to a 230 V wall outlet.</choice>
+            </choices>
+            <info>If batteries are inserted and the radio is connected to the mains, the radio uses mains power.</info>
         </step>
         <step>
             <cmd>Extend the telescopic antenna.</cmd>

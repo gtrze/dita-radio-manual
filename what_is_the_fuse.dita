@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="what_is_the_fuse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+  <title>The fuse</title>
+  <conbody>
+    <p>A fuse is a safety device that protects electrical devices from damage caused by excessive current.</p>
+    <p>Its essential component is a metal wire or strip that melts when too much current flows through it,
+         thereby stopping or interrupting the current.</p>
+    
+  </conbody>
+</concept>
