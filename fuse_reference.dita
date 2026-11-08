@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference id="fuse_reference" xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd">
+  <title>Fuse specification</title>
+  <refbody>
+    <simpletable>
+        <sthead>
+            <stentry>
+                Type
+            </stentry>
+            <stentry>
+                Rated voltage
+            </stentry>
+            <stentry>
+                Rated vurrent
+            </stentry>
+        </sthead>
+        <strow>
+            <stentry>
+                Slow acting
+            </stentry>
+            <stentry>
+                250 V
+            </stentry>
+            <stentry>
+                500 mA
+            </stentry>
+        </strow>
+    </simpletable>
+    
+  </refbody>
+</reference>

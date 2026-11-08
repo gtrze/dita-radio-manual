@@ -16,6 +16,7 @@
 
   <topicref href="what_is_the_fuse.dita">
     <topicref href="fuse_replacement.dita"/>
+    <topicref href="fuse_reference.dita"/>
   </topicref>
 
   <topichead navtitle="Troubleshooting">

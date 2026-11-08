@@ -21,7 +21,7 @@
         <cmd>Remove the blown fuse from the cap.</cmd>
       </step>
       <step>
-        <hazardstatement>
+        <hazardstatement type="caution">
           <messagepanel>
             <typeofhazard>Risk of fire</typeofhazard>
             <consequence>A fuse with a higher rating does not protect the radio and can cause overheating.</consequence>
@@ -29,7 +29,7 @@
           </messagepanel>
         </hazardstatement>
         <cmd>Put new fuse (500 mA) in the place of old one.</cmd>
-        <info>Use the proper fuse.</info>
+        <info>Use the proper fuse. For details, see <xref href="fuse_reference.dita"/>.</info>
       </step>
       <step>
         
